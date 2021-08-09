@@ -37,3 +37,5 @@ function clearElements(element){
 render();
 
 // testando integração com git
+////////////////////////////////
+// nova atualização
